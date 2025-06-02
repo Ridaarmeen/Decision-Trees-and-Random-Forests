@@ -11,7 +11,8 @@ Features: Includes clinical and demographic attributes such as age, cholesterol,
 -Matplotlib & Seaborn – for plotting and visualization
 -Pandas – for data manipulation
 
-🧪 Methodology
+🧪 Methodology:
+
 1.Data Loading:
 -Load the dataset from a CSV file using pandas.
 
